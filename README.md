@@ -1,17 +1,12 @@
 # 👋 Hi, I'm Mehedi Hasan!
 
-## GitHub Stats
+### 📚 Education:
+- **Studied Computer Science**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omehedi&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omehedi&theme=highcontrast)
 
-
-
-### 📚 Education:
-- **Studied Computer Science**
-
----
 
 ### 🔭 What I'm Working On:
 - Developing my skills in **PHP**, **Laravel**, **Vue.js**, and **Node.js**.  
