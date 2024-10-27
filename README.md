@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Mehedi Hasan!
 
-### 👩‍💻 About Me:
-I'm currently an **intern at TMSS ICT**, learning full-stack development with a focus on **advanced Laravel** and **Vue.js**.
+## GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omehedi&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omehedi&theme=highcontrast)
+
+
 
 ### 📚 Education:
 - **Studied Computer Science**
