@@ -1,22 +1,12 @@
-# 👋 Hi, I'm Mehedi Hasan!
-
-### 📚 Education:
-- **Studied Computer Science**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omehedi&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omehedi&theme=highcontrast)
-
-
-### 🔭 What I'm Working On:
-- Developing my skills in **PHP**, **Laravel**, **Vue.js**, and **Node.js**.  
-- Building professional-grade applications with **MongoDB**, **Express.js**, and **React.js**.
+# Hi 👋, I'm Md. Mehedi Hasan
+A passionate Developer from Bangladesh 🚀
 
 ---
 
-### ⚡ What I Love:
-- Exploring new technologies and improving my **problem-solving skills**.  
-- Tackling complex challenges and crafting beautiful, responsive web applications using a mix of technologies like **Laravel**, **Vue.js**, **Node.js**, **React.js**, **MySQL**, **MongoDB**, and **Bootstrap**.
+## 🌟 About Me
+I'm a highly motivated developer experienced in working with a variety of technologies and tools. My focus is on mobile development with **Android Studio** and backend development using **Laravel**. I am proficient in **Java**, **Vue.js**, **React**, **Python**, **DSA**, **JavaScript**, **PHP**, and **Git**.
+
+I love tackling complex problems, learning new technologies, and collaborating with teams. Check out my projects below to see my work!
 
 ---
 
@@ -37,9 +27,29 @@
 
 ---
 
-### 🔥 My Stats:
-- Continuously learning and growing through coding challenges.
-- Check out my latest contributions and streaks on [GitHub](https://github.com/yourusername)!
+## 🚀 Projects
+
+### 🌐 Fullstack Development (Laravel + Vue.js)
+- **Online Course Management (SkillSyntax)**: A complete course management system, developed in collaboration with a team, featuring course creation, enrollment, and more.
 
 ---
 
+## 🌱 Currently Learning
+- **Laravel** and **Vue.js** to deepen my understanding of backend and frontend development.
+
+---
+
+## 📫 How to Reach Me
+- **Email**: mahinbabu042@gmail.com
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035849441092)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-b11516277/)
+
+---
+
+## ✨ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omehedi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omehedi&layout=compact&theme=radical)
+
+---
+
+Let's create something amazing together! 😄
