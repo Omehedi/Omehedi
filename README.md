@@ -28,6 +28,22 @@ I enjoy solving complex problems, learning new technologies, and collaborating w
 </p>
 
 ---
+### 🛠 My Favorite Tools:
+<p>
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.jetbrains.com/phpstorm/" target="_blank">
+        <img src="https://img.shields.io/badge/PHPStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PHPStorm" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank">
+        <img src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />
+    </a>
+</p>
+
+---
 
 ## 🚀 Projects
 
