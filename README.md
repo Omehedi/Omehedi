@@ -40,12 +40,22 @@ I enjoy tackling complex problems, learning new technologies, and collaborating 
 - **Laravel** and **Vue.js** to deepen my understanding of backend and frontend development.
 
 ---
-
 ## 📫 Connect with Me
 - **Email**: [mahinbabu042@gmail.com](mailto:mahinbabu042@gmail.com)
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035849441092)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-b11516277/)
 
+<p>
+    <a href="https://skill.tmssict.com/" target="_blank">
+        <img src="https://img.shields.io/badge/SkillSyntax%20by%20TMSS%20ICT-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.facebook.com/profile.php?id=100035849441092" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mehedi-hasan-b11516277/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+</p>
 ---
 
 ## ✨ GitHub Stats
