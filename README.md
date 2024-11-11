@@ -1,14 +1,11 @@
 # Hi 👋, I'm Md. Mehedi Hasan
 ### A Passionate Developer from Bangladesh 🚀
 
----
 
 ## 🌟 About Me
 I'm a motivated developer with expertise in both frontend and backend development, focusing on **Laravel** for backend and **Vue.js** for frontend work. I'm also skilled in **React**, **JavaScript**, **PHP**, and **Git**. 
 
 I enjoy solving complex problems, learning new technologies, and collaborating with teams. Check out some of my projects below!
-
----
 
 ### 🛠 Languages and Tools I Use:
 <p>
@@ -27,7 +24,6 @@ I enjoy solving complex problems, learning new technologies, and collaborating w
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
 ### 🛠 My Favorite Tools:
 <p>
     <a href="https://code.visualstudio.com/" target="_blank">
@@ -43,19 +39,13 @@ I enjoy solving complex problems, learning new technologies, and collaborating w
     </a>
 </p>
 
----
-
 ## 🚀 Projects
 
 ### 🌐 Fullstack Development (Laravel + Vue.js)
 - **[Online Course Management (SkillSyntax)](https://skill.tmssict.com/)**: A full-featured course management system developed with a team, including course creation, enrollment, and more.
 
----
-
 ## 🌱 Currently Learning
 - **Laravel** and **Vue.js** to deepen my understanding of backend and frontend development.
-
----
 
 ## 📫 Connect with Me
 - **Email**: [mahinbabu042@gmail.com](mailto:mahinbabu042@gmail.com)
@@ -74,7 +64,6 @@ I enjoy solving complex problems, learning new technologies, and collaborating w
     </a>
 </p>
 
----
 
 ## ✨ GitHub Stats
 
@@ -83,6 +72,5 @@ I enjoy solving complex problems, learning new technologies, and collaborating w
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omehedi&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </div>
 
----
 
 ### Let's build something great together! 😄
