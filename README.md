@@ -34,10 +34,13 @@ I love solving complex problems, learning new technologies, and working collabor
 ## 🧰 Favorite Tools
 
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/PHPStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PHPStorm"/>
-  <img src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
+  <img style="margin-right: 5px;" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img style="margin-right: 5px;" src="https://img.shields.io/badge/PHPStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PHPStorm"/>
+  <img style="margin-right: 5px;" src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
+  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
 </p>
+
+
 
 ---
 
