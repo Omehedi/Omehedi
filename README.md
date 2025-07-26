@@ -5,7 +5,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate and detail-oriented Fullstack Developer with hands-on experience in building dynamic and scalable web applications. I specialize in:
+I'm a motivated developer with a passion for both frontend and backend development. My main focus is on **Laravel** for backend and **Vue.js** for frontend development. I'm also skilled in **React**, **JavaScript**, **PHP**, and **Git**.
+
+I love solving complex problems, learning new technologies, and working collaboratively in team environments.
 
 - 🔹 **Backend**: Laravel (PHP), MySQL  
 - 🔹 **Frontend**: Vue.js, React, JavaScript  
