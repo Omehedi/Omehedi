@@ -14,8 +14,6 @@ I love solving complex problems, learning new technologies, and working collabor
 - 🔹 **Version Control**: Git, GitHub  
 - 🔹 **Teamwork**: Agile/Scrum-friendly, always ready to collaborate  
 
-I love solving real-world problems, learning modern tech stacks, and continuously growing as a developer.
-
 ---
 
 ## 🛠️ Tech Stack
